@@ -362,14 +362,6 @@
     color: white;
 }
 
-.switcher .allswitch .fa-backward:hover {
-    color: black;
-}
-
-.switcher .allswitch .fa-forward:hover {
-    color: black;
-}
-
 #myprogressbar {
     position: absolute;
     width: 30rem;
@@ -590,7 +582,9 @@
         width: 100%;
         height: 31vh;
     }
-
+    #myprogressbar{
+        width: 100%;
+    }
 
 }
 
